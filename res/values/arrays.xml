@@ -669,7 +669,7 @@
     </string-array>
 
     <string-array name="lcd_density_stock_entries" translatable="false">
-        <item>120 -- mdpi>/item>
+        <item>120 -- mdpi</item>
         <item>160 -- mdpi</item>
         <item>240 -- hdpi</item>
         <item>320 -- xhdpi</item>
